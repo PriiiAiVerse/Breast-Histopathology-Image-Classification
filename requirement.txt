@@ -1,0 +1,9 @@
+numpy
+opencv-python
+Pillow
+tensorflow
+keras
+imutils
+scikit-learn
+matplotlib
+kagglehub
